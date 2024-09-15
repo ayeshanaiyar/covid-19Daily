@@ -1,5 +1,5 @@
 # covid-19Daily
-This project focuses on establishing a prediction model for the spread pattern of the COVID-19 pandemic. COVID-19 has had a profound global impact, resulting in the loss of over two million lives and triggering economic recessions. By employing Machine Learning methodologies, we train regression models to forecast the number of confirmed cases.
+This project focuses on establishing a prediction model for the spread pattern of the COVID-19 pandemic on different  countries of Pakistan. COVID-19 has had a profound global impact, resulting in the loss of over two million lives and triggering economic recessions. By employing Machine Learning methodologies,train regression models  and decision tree to forecast the number of confirmed cases.
 # Prerequites
 1. Python
 2. pip
